@@ -1,0 +1,12 @@
+main_info:
+  name: 'Miguel Sánchez Tello'
+  current_title: 'Telecommunications & Automotive Software Engineer'
+  current_email: 'loadge@gmail.com'
+  current_location: 'Madrid, Spain'
+  current_phone: '+34 681926513'
+  current_description: 'Passionate Mediterranean Software Engineer with >6 years of experience in connected and autonomous cars. Looking for an opportunity to work with a demanding and agile team in a challenging environment. I would like to use my knowledge in Linux, embedded devices, scrum and passion for prototyping to create as many happy customers as possible for you.'
+top_skills: ['Autonomous Car', 'Connected Car', 'Embedded Development', 'Linux', 'Automated Testing', 'Scrum/SAFe', 'Parallel Systems', Demo Showcasing]
+links: [
+  [LinkedIn, https://www.linkedin.com/in/miguel-sanchez-tello/],
+  [GitHub, https://github.com/Loadge]
+],
